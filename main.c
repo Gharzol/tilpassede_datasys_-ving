@@ -8,5 +8,6 @@ int main(){
 		return 1;
 	}
 	printf("...and Venus\n");
+	printf("---and Plute\n");
 	return 0;
 }
