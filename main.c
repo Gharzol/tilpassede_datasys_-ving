@@ -7,6 +7,6 @@ int main(){
 	if (1 > 0){
 		return 1;
 	}
-	printf("...and Venus\n");
+	printf("...and whatever\n");
 	return 0;
 }
