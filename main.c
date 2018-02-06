@@ -12,6 +12,6 @@ int main(){
 
 	printf("...and Venus\n");
 	printf("---and Plute\n");
-
+	printf("---prøver på flere ting\n");
 	return 0;
 }
